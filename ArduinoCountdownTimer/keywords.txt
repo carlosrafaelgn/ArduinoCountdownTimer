@@ -1,0 +1,9 @@
+CountdownTimer	KEYWORD1
+setLimit	KEYWORD2
+setCallback	KEYWORD2
+reset	KEYWORD2
+start	KEYWORD2
+isStarted	KEYWORD2
+pause	KEYWORD2
+isPaused	KEYWORD2
+process	KEYWORD2
